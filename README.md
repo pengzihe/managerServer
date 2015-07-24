@@ -69,6 +69,7 @@ current has 3 threads
 -------------------------------test_member----------------------------------
 
 ifconfig eth1
+
 eth1      Link encap:Ethernet  HWaddr 52:54:00:68:7C:19  
           inet addr:172.16.20.53  Bcast:172.16.20.255  Mask:255.255.255.0
           inet6 addr: fe80::5054:ff:fe68:7c19/64 Scope:Link
@@ -84,6 +85,7 @@ Fri Jul 24 09:48:59 2015
 -------------------------------test_pay----------------------------------
 
 ifconfig eth1
+
 eth1      Link encap:Ethernet  HWaddr 52:54:00:68:7C:55  
           inet addr:172.16.20.55  Bcast:172.16.20.255  Mask:255.255.255.0
           inet6 addr: fe80::5054:ff:fe68:7c55/64 Scope:Link
