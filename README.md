@@ -63,7 +63,9 @@ Menu info:
 
 Please input your choose: 1
 Please input you need to run command or input 'quit' will exit: ifconfig eth1
+
 Fri Jul 24 09:48:57 2015
+
 current has 3 threads
 
 -------------------------------test_member----------------------------------
@@ -106,7 +108,9 @@ Menu info:			###批量下发文件
 Please input your choose: 2
 Please input you need to copy of the file name or input 'quit' will exit: tab.py
 Please input you need to save path or input 'quit' will exit: /tmp
+
 Fri Jul 24 09:50:18 2015
+
 current has 3 threads
 
 -------------------------------test_member----------------------------------
