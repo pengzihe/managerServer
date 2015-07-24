@@ -2,10 +2,15 @@
 批量服务器管理程序，fun.py是主程序，fun是function的简写。
 
 fun.py：功能程序，支持批量分发、接收文件、允许批量分发执行远程命令、服务器分组管理、主机和组的添加
+
 menu.py：菜单表格
+
 host_info.py: python连接mysql数据库程序
+
 manager.sql：数据库表结构，里面有两个表，分别是host和groups表，直接导入即可
+
 conn_host.py：多线程批量下发文件和执行命令，使用了pexpect,pxssh和threading模块
+
 
 
 
@@ -21,6 +26,9 @@ Menu info:
 	5.	Exit
 
 Please input your choose: 
+
+
+
 
 二级部分菜单界面：
 Menu info:   ##添加删除主机和组功能菜单
@@ -41,6 +49,9 @@ Menu info:    ##批量下发命令或下发文件菜单
 	3.	Exit
 
 Please input your choose: 
+
+
+
 
 部分演示功能：
 Please input you want to choose or input 'quit' will exit: test     ##批量执行命令
@@ -114,6 +125,9 @@ Fri Jul 24 09:50:19 2015
 
 
 其它部分添加删除主机和组功能不在演示。
+
+
+
 
 
 
